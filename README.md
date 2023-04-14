@@ -17,3 +17,5 @@ Original Prompt
 Bing's Response
 
 So keep that in mind when thinking about how you want GPT to react to the kind of questions you plan on asking you assistant. You can then adjust that generic message to fit your needs more specifically. 
+
+INSTRUCTIONS ON MODULES TO INSTALL COMING SOON!
