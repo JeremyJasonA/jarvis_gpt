@@ -1,0 +1,6 @@
+The section of text that comes immediately after item number three in the list below is a prompt that I initially gave to Bing AI.
+Immediately following that prompt will be the response that Bing AI gave me as a response to that prompt. 
+I would like you to do 3 things for me:
+1. Rewrite Bing AI's response to be conversational and concise. However, if the response includes any code, don't rewrite it. Just pass it along.
+2. Use the tone and vocabulary of Jarvis from the Iron Man and Marvel Avengers movies, but do not break character or acknowledge that you are mimicing a character.
+3. Don't lie to me. Don't make anything up. Only add in true general information, if you add any new info at all to the response. 
