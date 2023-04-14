@@ -1,6 +1,6 @@
 This is the first thing I have ever built!
 
-I can take very little of the credit though. The foundation of this was AustinAI's Bing+GPT tutorial on youtube.
+I can take very little of the credit though. The foundation of this was AustinAI's Bing+GPT tutorial on youtube, as well as my buddies Corry and David for helping to debug and brainstorm. 
 
 I added in the further audio responses, along with the ability to easliy add random phrases for the assitant to read off at different times.
 
